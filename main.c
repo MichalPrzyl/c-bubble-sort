@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdbool.h>
+#include <stdbool.h> // booleans are not build-ins in C :O :O :O
 
 
 void print_list(int *pa, size_t length){
