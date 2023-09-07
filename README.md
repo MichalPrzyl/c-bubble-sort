@@ -7,6 +7,8 @@ trying to understand for example how sorting works.
 ## What I've learned
 Its' only bubble sort algorithm but I learned a lot about pointers, memory adressing
 and how pointers are so connected to arrays.
+I know it's not a lot code but the goal was reached.
+It ain't much but it's honest work 😂.
 
 ## Flaws
 I understand that I can initialize array as pointer to first element (in the first place) but those small things
